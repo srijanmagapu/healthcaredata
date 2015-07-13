@@ -1,9 +1,0 @@
-C:\Users\asoma\documents\visual studio 2010\Projects\Healthcare_Data_TestProject\Healthcare_Data_TestProject\bin\Debug\Healthcare_Data_TestProject.exe
-C:\Users\asoma\documents\visual studio 2010\Projects\Healthcare_Data_TestProject\Healthcare_Data_TestProject\bin\Debug\Healthcare_Data_TestProject.pdb
-C:\Users\asoma\documents\visual studio 2010\Projects\Healthcare_Data_TestProject\Healthcare_Data_TestProject\obj\x86\Debug\Healthcare_Data_TestProject.exe
-C:\Users\asoma\documents\visual studio 2010\Projects\Healthcare_Data_TestProject\Healthcare_Data_TestProject\obj\x86\Debug\Healthcare_Data_TestProject.pdb
-C:\Users\asoma\documents\visual studio 2010\Projects\Healthcare_Data_TestProject\Healthcare_Data_TestProject\obj\x86\Debug\Healthcare_Data_TestProject.csprojResolveAssemblyReference.cache
-C:\Temp1\Healthcare_Data_TestProject\obj\x86\Debug\Healthcare_Data_TestProject.exe
-C:\Temp1\Healthcare_Data_TestProject\obj\x86\Debug\Healthcare_Data_TestProject.pdb
-C:\Temp1\Healthcare_Data_TestProject\bin\Debug\Healthcare_Data_TestProject.exe
-C:\Temp1\Healthcare_Data_TestProject\bin\Debug\Healthcare_Data_TestProject.pdb
