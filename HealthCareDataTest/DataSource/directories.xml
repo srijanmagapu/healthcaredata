@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<paths>
+
+<SDFD>C:\HealthCareDataTest\DataSource</SDFD>
+
+<SDFN>C:/HealthCareDataTest/DataSource/Test_Sample_Demographics.txt</SDFN>
+
+<DCFD>C:\HealthCareDataTest\DataDestination</DCFD>
+
+<PFD>C:\HealthCareDataTest\DataProcessed</PFD>
+
+<EFD>C:\HealthCareDataTest\Errors</EFD>
+
+<LFD>C:\HealthCareDataTest\Logs</LFD>
+
+</paths>
